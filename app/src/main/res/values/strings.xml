@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Name The Domain</string>
+    <string name="switch_hint">reverse question and answer</string>
+    <string name="credit">by Kilian Clemens Krüger, graphics by canva.com</string>
+</resources>
